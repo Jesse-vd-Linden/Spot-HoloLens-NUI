@@ -29,7 +29,7 @@ The system layout is depicted in the image to give a better insight into how eve
 Our system architecture also includes the data collection that we did for our experiment. 
 The results can be read in the paper.
 
-![system-architecture](docs\infrastructure-spot-holo-ros.png)
+![system-architecture](./docs/infrastructure-spot-holo-ros.png)
 
 ## License
 Spot-HoloLens-NUI is provided under the Apache-2.0 License. See the LICENSE file for details.
