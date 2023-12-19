@@ -1,0 +1,3 @@
+[submodule "SpotControlDocker"]
+	path = SpotControlDocker
+	url = https://github.com/Jesse-vd-Linden/SpotDockerImage.git
