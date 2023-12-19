@@ -1,3 +1,6 @@
 [submodule "SpotControlDocker"]
 	path = SpotControlDocker
 	url = https://github.com/Jesse-vd-Linden/SpotDockerImage.git
+[submodule "HoloLens-MRTK-NUI"]
+	path = HoloLens-MRTK-NUI
+	url = https://github.com/Jesse-vd-Linden/Unity-MRTK-ROS-Spot-NUI.git
