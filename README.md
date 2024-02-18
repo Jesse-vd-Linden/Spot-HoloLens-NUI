@@ -20,6 +20,24 @@ Follow the installation instructions on both pages to get everything up and runn
 
 ## Research paper
 
+
+### Video
+* 10-15 seconds introduction that shows speech and gesture control, operating the robot from both HoloLens view and third person perspective
+* Whole experiment according to protocol
+  * Eye calibration on HoloLens
+  * Instructions experiments
+  * Trial 1, Speech Walking
+  * Trial 2, Gestures Walking
+  * Trial 3, Speech Stationary
+  * Trial 4, Gestures Stationary
+  * Intra-Experiment questionnnaire, after every trial
+  * Post-Experiment Interview
+    * What was your favorite and least favorite condition and why
+* Outro screen with information of paper:
+  * Title: Natural User Interface in Augmented Reality to Control Spot
+  * Experimenters: Renchi Zhang, Dimitra Dodou, Jesse van der Linden
+  * Involved professors: Yke Bauke Eisma, Joost de Winter
+
 ## Desired result
 In the demo video below you can see the results.
 Write more text...
